@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: simple-life\n"
+"POT-Creation-Date: 2014-11-29 19:59+0545\n"
+"PO-Revision-Date: 2014-11-29 19:59+0545\n"
+"Last-Translator: Nilambar Sharma <nilambar@outlook.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ../../simple-life\n"
+
+#: ../../simple-life/404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../../simple-life/404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../../simple-life/archive.php:27
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../../simple-life/archive.php:30
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../../simple-life/archive.php:33
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../../simple-life/archive.php:36
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../../simple-life/archive.php:39
+msgid "Asides"
+msgstr ""
+
+#: ../../simple-life/archive.php:42
+msgid "Galleries"
+msgstr ""
+
+#: ../../simple-life/archive.php:45
+msgid "Images"
+msgstr ""
+
+#: ../../simple-life/archive.php:48
+msgid "Videos"
+msgstr ""
+
+#: ../../simple-life/archive.php:51
+msgid "Quotes"
+msgstr ""
+
+#: ../../simple-life/archive.php:54
+msgid "Links"
+msgstr ""
+
+#: ../../simple-life/archive.php:57
+msgid "Statuses"
+msgstr ""
+
+#: ../../simple-life/archive.php:60
+msgid "Audios"
+msgstr ""
+
+#: ../../simple-life/archive.php:63
+msgid "Chats"
+msgstr ""
+
+#: ../../simple-life/archive.php:66 ../../simple-life/sidebar.php:16
+msgid "Archives"
+msgstr ""
+
+#: ../../simple-life/comments.php:35 ../../simple-life/comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: ../../simple-life/comments.php:36
+msgid "Older Comments"
+msgstr ""
+
+#: ../../simple-life/comments.php:37
+msgid "Newer Comments"
+msgstr ""
+
+#: ../../simple-life/comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../../simple-life/comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../../simple-life/comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: ../../simple-life/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: ../../simple-life/content-none.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../../simple-life/content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../../simple-life/content-none.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../../simple-life/content-page.php:24
+#: ../../simple-life/content-single.php:26 ../../simple-life/content.php:62
+msgid "Pages:"
+msgstr ""
+
+#: ../../simple-life/content-page.php:30
+#: ../../simple-life/content-search.php:55
+#: ../../simple-life/content-single.php:49 ../../simple-life/content.php:104
+msgid "Edit"
+msgstr ""
+
+#: ../../simple-life/content-search.php:30
+#: ../../simple-life/content-search.php:41
+#: ../../simple-life/content-single.php:35
+#: ../../simple-life/content-single.php:38 ../../simple-life/content.php:78
+#: ../../simple-life/content.php:89
+msgid ", "
+msgstr ""
+
+#: ../../simple-life/content-search.php:35
+#: ../../simple-life/content-search.php:46 ../../simple-life/content.php:83
+#: ../../simple-life/content.php:94
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../../simple-life/content-search.php:52 ../../simple-life/content.php:101
+msgid "Leave a comment"
+msgstr ""
+
+#: ../../simple-life/content-search.php:52 ../../simple-life/content.php:101
+msgid "1 Comment"
+msgstr ""
+
+#: ../../simple-life/content-search.php:52 ../../simple-life/content.php:101
+msgid "% Comments"
+msgstr ""
+
+#: ../../simple-life/content.php:59
+msgid "Continue reading"
+msgstr ""
+
+#: ../../simple-life/footer.php:55
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../../simple-life/footer.php:55
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../../simple-life/footer.php:57
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: ../../simple-life/functions.php:43
+msgid "Primary Menu"
+msgstr ""
+
+#: ../../simple-life/functions.php:44
+msgid "Footer Menu"
+msgstr ""
+
+#: ../../simple-life/functions.php:102
+msgid "Sidebar"
+msgstr ""
+
+#: ../../simple-life/header.php:23 ../../simple-life/header.php:41
+msgid "Skip to content"
+msgstr ""
+
+#: ../../simple-life/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../../simple-life/sidebar.php:23
+msgid "Meta"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:39
+#: ../../simple-life/inc/customizer.php:42
+msgid "Simple Life Options"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:55
+msgid "General Section"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:70
+msgid "Site Layout"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:75
+msgid "Content-Sidebar"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:76
+msgid "Sidebar-Content"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:77
+msgid "Full Width"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:91
+msgid "Content Layout"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:96
+msgid "Full Post"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:97
+msgid "Excerpt"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:98
+msgid "Excerpt with thumbnail"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:111
+msgid "Blog Section"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:126
+msgid "Read more text"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:142
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:158
+msgid "Footer Section"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:173
+msgid "Footer Widgets"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:178
+msgid "No Widget"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:179
+msgid "1"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:179
+msgid "Widget"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:180
+msgid "2"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:180
+#: ../../simple-life/inc/customizer.php:181
+#: ../../simple-life/inc/customizer.php:182
+#: ../../simple-life/inc/customizer.php:183
+msgid "Widgets"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:181
+msgid "3"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:182
+msgid "4"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:183
+msgid "6"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:197
+msgid "Copyright text"
+msgstr ""
+
+#: ../../simple-life/inc/customizer.php:213
+msgid "Show Powered By"
+msgstr ""
+
+#: ../../simple-life/inc/extras.php:63
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../../simple-life/inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: ../../simple-life/inc/template-tags.php:25
+msgid "Older posts"
+msgstr ""
+
+#: ../../simple-life/inc/template-tags.php:29
+msgid "Newer posts"
+msgstr ""
+
+#: ../../simple-life/inc/template-tags.php:52
+msgid "Post navigation"
+msgstr ""
