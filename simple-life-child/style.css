@@ -1,6 +1,6 @@
 /*
 Theme Name: Logopedie Den Bosch Zuid - Miriam de Bekker
-Theme URI: http://www.mpedia.nl/wordpress-themes/logopedie-den-bosch-zuid
+Theme URI: www.mpedia.nl/wordpress-themes
 Author: Nilambar Sharma (adaption made by Maarten Kuijpers)
 Author URI: http://www.nilambar.net/
 Description: This is an adaption of the Simple Life theme by Nilambar Sharma.
@@ -12,6 +12,19 @@ Text Domain: simple-life
 Domain Path: /languages/
 Tags: light, white, gray, one-column, two-columns, left-sidebar, right-sidebar, fixed-layout, fluid-layout, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, full-width-template, post-formats, sticky-post, translation-ready, responsive-layout
 */
+
+#menu-item-249 {
+	width: 75px;
+	text-align: right;
+	background: url(images/logo-pinterest.png) no-repeat left center;
+}
+
+#menu-item-86 {
+width: 73px;
+	text-align: right;
+	background: url(images/logo-facebook.png) no-repeat left center;
+}
+
 
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
