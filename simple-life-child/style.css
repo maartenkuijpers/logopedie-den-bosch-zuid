@@ -13,6 +13,29 @@ Domain Path: /languages/
 Tags: light, white, gray, one-column, two-columns, left-sidebar, right-sidebar, fixed-layout, fluid-layout, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, full-width-template, post-formats, sticky-post, translation-ready, responsive-layout
 */
 
+.mean-container .mean-nav ul li a.mean-expand {
+	height: 24px;
+}
+
+
+#menu-item-249 {
+	width: 75px;
+	text-align: right;
+	background: url(images/logo-pinterest.png) no-repeat left center;
+}
+
+#menu-item-257 {
+	width: 123px;
+	text-align: right;
+	background: url(images/logo-twitter.png) no-repeat left center;
+}
+
+#menu-item-86 {
+	width: 73px;
+	text-align: right;
+	background: url(images/logo-facebook.png) no-repeat left center;
+}
+
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
 ----------------------------------------------------------------
@@ -72,6 +95,16 @@ dfn, cite, em, i {
 }
 blockquote {
 	margin: 0 1.5em;
+	padding-top: 0;
+	border: 0;
+	display: inline-block;
+}
+blockquote p::before {
+	margin-left: -0.4em;
+	content: open-quote;
+}
+blockquote p::after {
+	content: close-quote;
 }
 address {
 	margin: 0 0 1.5em;
@@ -394,6 +427,7 @@ a:active {
 	margin: 0;
 	border-top: 1px dashed rgba(0,0,0,0.1);
 	width: auto;
+	display: block;
 }
 
 .main-navigation ul ul li:first-child {
